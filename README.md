@@ -20,7 +20,7 @@
   
 ### :chart_with_upwards_trend: Статистика :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SulimanVu&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Suliman15&theme=dark&background=000000)](https://git.io/streak-stats)
   </br>
 ### :mailbox_with_no_mail: Как вы можете со мной связаться:
 
